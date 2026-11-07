@@ -1,4 +1,4 @@
-# Angular21Tutorial
+# Angular 21 Tutorial
 
 # Event Binding in Angular
 
